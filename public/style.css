@@ -109,7 +109,7 @@ body {
     overflow: hidden;
 }
 
-.main_video iframe {
+.main_video img {
     width: 52vw;
     height: 57vh;
     max-width: 100%;
